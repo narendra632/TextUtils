@@ -1,0 +1,5 @@
+django-admin
+django-admin startproject projectname - in a folder to generate built code utility
+
+python manage.py runserver - to run the local django server
+
